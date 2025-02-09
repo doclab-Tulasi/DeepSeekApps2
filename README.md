@@ -57,10 +57,16 @@ Test files (use "malware.exe" or "virus.dll" to trigger threats)
 Check password strength
 Validate URLs (try "bad-site.com" or "phishing.net")
 
+This is a conceptual demonstration only - real Zero Trust implementations require proper infrastructure and security controls.
+
 For a production environment, you would need to:
 Add server-side processing
 Implement real threat intelligence feeds
 Add user authentication
+
+![ZT-Sim-pic-2](https://github.com/user-attachments/assets/8b6665bc-1a9e-4f07-9ccc-6c5c054510ff)
+
+
 Include proper logging and auditing
 Implement encryption for data in transit
 Add continuous verification mechanisms
